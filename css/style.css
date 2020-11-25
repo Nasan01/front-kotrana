@@ -1,0 +1,140 @@
+body{
+	background-image: url('../images/banniere/b6.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.ch2{
+	background-image: url('../images/banniere/b3.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.ch3{
+	background-image: url('../images/banniere/b4.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+#milieu{
+	width: 1024px;
+	margin: auto;
+}
+#bloc{
+	width: 1024px;
+	margin: auto;
+	background-color: rgba(2, 1, 1, 0.6);
+}
+header{
+	height: 50px;
+	padding-top: 10px;
+	border: 1px solid aqua;
+	text-align: center;
+	color: firebrick;
+	background-color: aqua;
+	border-radius: 4px;
+	width: 100%;
+}
+
+#milieu{
+	height: 460px;
+	border: 1px solid aquamarine;
+
+}
+
+#image-all{
+	width: 650px;
+	display: inline-block;
+	height: 450px;
+}
+.bloc1{
+	text-align: center;
+}
+.bloc2{
+	display: none;
+	position: relative;
+	top: 0; left: 0px;
+	text-align: center;
+}
+.bloc3{
+	display: none;
+	position: relative;
+	top: 0; left: 0px;
+	text-align: center;
+}
+.bloc4{
+	display: none;
+	position: relative;
+	top: 0; left: 0px;
+	text-align: center;
+
+}
+.bloc5{
+	display: none;
+	position: relative;
+	top: 0; left: 0px;
+	text-align: center;
+
+}
+.bloc6{
+	display: none;
+	position: relative;
+	top: 0; left: 0px;
+	text-align: center;
+
+}
+.bloc7{
+	display: none;
+	position: relative;
+	top: 0; left: 0px;
+	text-align: center;
+
+}
+aside{
+	display: inline-block;
+	width: 250px;
+	vertical-align: top;
+	text-align: center;
+}
+#overlay{
+	display: none;
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.6);
+	top: -287px; left: 0;
+	text-align: center;
+	height: 460px;
+	width: 650px;
+	
+}
+.imgStyle{
+	border-radius: 20px;
+	margin-top: 75px;
+}
+.bloc1, .bloc2, .bloc3, .bloc4, .bloc5, .bloc6, .bloc7{
+	padding-top: 100px;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c3c3c3;
+}
+#panel {
+    padding: 50px;
+    display: none;
+}
+#bannierre{
+	height: 250px;
+	border: 1px 1px 0 0 solid darkturquoise;
+	background-color: rgba(0, 0, 0, 0.6);
+	text-align: center;
+}
+#txt, #categorie{
+	background-color: rgba(0, 0, 0, 0.6);
+	color: aquamarine;
+}
+footer{
+	height: 50px;
+	padding-top: 10px;
+	border: 1px solid aqua;
+	text-align: center;
+	color: firebrick;
+	background-color: aqua;
+	border-radius: 4px;
+}
